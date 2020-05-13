@@ -35,7 +35,7 @@ public class HomeTest extends BaseTest{
 	Assert.assertTrue(home.languageRusIsDisplayed());
 	//After step update  page buy.am  and  all  text  in page  buy.am
 	//is  written  by russian  language  and window is  clossed      
-		
+	//comment for commit	
 
 	
 	}
